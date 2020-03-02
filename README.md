@@ -9,3 +9,5 @@ This exercise is taken from the [Basic Saving In Godot With Config Files](https:
 His tutorial was developed using Godot 3.1. Everything you see should be compatible with Godot 3.2, although some of the syntax highlighting might look slightly different.
 
 After you have completed the exercise, run the program. Save a value of -3 to the config file. Update the LICENSE and README.md, and then turn in the URL to your repository on Canvas.
+
+#Finished.
